@@ -19,6 +19,8 @@ La carte IOT au format Arduino UNO est un Shield qui se branche sans soudure aux
 
 Résumé des TP : [overview](https://github.com/f4goh/Carte-shield-IOT/blob/master/IOToverview.pdf) 
 
+Question technique : Anthony Le Cren :arrow_right: nsi.touchard@gmail.com
+
 ***
 
 # Shield sur un ESP32
