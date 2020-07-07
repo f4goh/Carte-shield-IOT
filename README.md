@@ -16,6 +16,7 @@ La carte IOT au format Arduino UNO est un Shield qui se branche sans soudure aux
 - Exemples de programmes en Python et en C++;
 - Trois séquences pédagogiques disponibles;
 - Programmation avec [Thonny](https://thonny.org/)  ([Micropython](https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html)) ou IDE Arduino (CPP).
+- [Cours NSI](http://touchardinforeseau.servehttp.com/nsi/)
 
 Résumé des TP : [overview](https://github.com/f4goh/Carte-shield-IOT/blob/master/IOToverview.pdf) 
 
