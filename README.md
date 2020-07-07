@@ -1,4 +1,4 @@
-#titre**Carte Shield IOT**
+# Carte Shield IOT
 
 La carte IOT au format Arduino UNO est un Shield qui se branche sans soudure aux microcontrôleurs ESP8266 ou ESP32. Cette carte est particulièrement adaptée pour le monde des objets connectés. 
 
@@ -21,13 +21,13 @@ Résumé des TP : [overview](https://github.com/f4goh/Carte-shield-IOT/blob/mast
 
 ***
 
-#titre**Shield sur un ESP32**
+# Shield sur un ESP32
 
 ![ESP32](/images/esp32IOT.jpg  "Shield sur un ESP32")
 
 ***
 
-#titre**Shield et un ESP8266**
+# Shield et un ESP8266
 
 ![ESP8266](/images/esp8266IOT.jpg  "Shield sur un ESP8266")
 
@@ -53,7 +53,7 @@ Exemple de code Micropython
 	
 ***
 
-#titre**Accès Wifi avec un Raspberry PI**
+# Accès Wifi avec un Raspberry PI
 
 ![IOT](/images/Wifi.png  "Iot et accès Wifi")
 	
