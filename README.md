@@ -23,6 +23,15 @@ Résumé des TP : [overview](https://github.com/f4goh/Carte-shield-IOT/blob/mast
 Question technique : Anthony Le Cren :arrow_right: nsi.touchard@gmail.com
 
 ***
+## Comment télécharger les fichiers ?
+
+- cliquer sur Code (icône verte)
+- puis sur Download ZIP
+- Dézipper entierement le dossier "Carte-shield-IOT-master.zip"
+
+![ESP8266](/images/github.png  "Code puis Download ZIP")
+
+***
 
 # Shield sur un ESP32
 
