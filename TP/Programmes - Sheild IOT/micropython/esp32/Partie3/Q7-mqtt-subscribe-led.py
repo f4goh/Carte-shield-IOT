@@ -31,14 +31,15 @@ print(wifi.ifconfig())
 
 myMqttClient = b"micropython"
 
-THINGSPEAK_URL = b"broker.shiftr.io"
-THINGSPEAK_USER_ID = b'weatherSensors'
-THINGSPEAK_MQTT_API_KEY = b'bme280Sensors'
+URL = b"touchard.cloud.shiftr.io"
+USER_ID = b'touchard'
+MQTT_API_KEY = b'MFmD747BIp8YIJYI'
 client = MQTTClient(client_id=myMqttClient,
-                    server=THINGSPEAK_URL,
-                    user=THINGSPEAK_USER_ID,
-                    password=THINGSPEAK_MQTT_API_KEY,
+                    server=URL,
+                    user=USER_ID,
+                    password=MQTT_API_KEY,
                     ssl=False)
+
 client.set_callback(cb)
 
 try:
