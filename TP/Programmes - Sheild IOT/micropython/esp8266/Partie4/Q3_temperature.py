@@ -74,10 +74,10 @@ def handleInterrupt(timer):
 #Timer configuration
 tim.init(period=5000, mode=Timer.PERIODIC, callback=handleInterrupt)
 
-while True:
-    try:
+try:
+    while True:
         blynk.run()
-    except KeyboardInterrupt:
-        print('Ctrl-C pressed...exiting')
-        tim.deinit()
-        sys.exit()
+except KeyboardInterrupt:
+    print('Ctrl-C pressed...exiting')
+    tim.deinit()
+    sys.exit()
