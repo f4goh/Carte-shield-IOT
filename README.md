@@ -14,7 +14,9 @@ La carte IOT au format Arduino UNO est un Shield qui se branche sans soudure aux
 - Connexion pour passerelle UHF – LPWAN Sigfox (en cours) ;
 - Connecteur I²C ;
 - Exemples de programmes en Python et en C++;
-- Trois séquences pédagogiques disponibles;
+- Trois séquences pédagogiques Micopython disponibles;
+- Carte compatible avec [Espruino](https://www.espruino.com/) (développement en javascript)
+- Séquences pédagogiques Espruino disponibles avec tutoriel de programmation et de prise en main;
 - Programmation avec [Thonny](https://thonny.org/)  ([Micropython](https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html)) ou IDE Arduino (CPP).
 - [Cours NSI](http://touchardinforeseau.servehttp.com/nsi/)
 
@@ -68,4 +70,11 @@ Exemple de code Micropython
 # Accès Wifi avec un Raspberry PI
 
 ![IOT](/images/Wifi.png  "Iot et accès Wifi")
+
+# Carte IOT compatible espruino
+
+![IOT](/images/espruino.png  "Espruino")
 	
+
+
+
